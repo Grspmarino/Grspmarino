@@ -2,7 +2,7 @@
 <div>
 <h2 align="center">&ensp;🌎 <i>A B O U T &nbsp; M E</i>🌎 &ensp;</h2>
 
-<a href="https://app.daily.dev/Grspmarino"><img align="right" src="https://api.daily.dev/devcards/6d0eff7eed8e4a77ba85cfd2999f40b9.png?r=8qs" width="300" alt="Giovanna Roberta's Dev Card"/></a>
+<a href="https://app.daily.dev/grspmarino"><img align="right" src="https://api.daily.dev/devcards/6d0eff7eed8e4a77ba85cfd2999f40b9.png?r=8qs" width="300" alt="Giovanna Roberta's Dev Card"/></a>
 <br>
 - 🤵 I'm R&D in IoT and studying Business Informatics,.
 
